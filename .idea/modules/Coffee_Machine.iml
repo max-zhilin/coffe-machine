@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="Coffee_Machine" external.linked.project.path="$ANDROID_SDK_HOME$/Coffee Machine" external.root.project.path="$ANDROID_SDK_HOME$/Coffee Machine" external.system.id="GRADLE" external.system.module.group="" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$ANDROID_SDK_HOME$/Coffee Machine/out/production/classes" />
+    <output-test url="file://$ANDROID_SDK_HOME$/Coffee Machine/out/test/classes" />
+    <exclude-output />
+    <content url="file://$ANDROID_SDK_HOME$/Coffee Machine">
+      <excludeFolder url="file://$ANDROID_SDK_HOME$/Coffee Machine/.gradle" />
+      <excludeFolder url="file://$ANDROID_SDK_HOME$/Coffee Machine/build" />
+      <excludeFolder url="file://$ANDROID_SDK_HOME$/Coffee Machine/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
